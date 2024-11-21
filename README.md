@@ -1,5 +1,6 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
-
+# EXP2:BOOLEAN FUNCTION MINIMIZATION
+## NAME:JASSIR SULTHAN K
+## REGISTRATION NO:24901084
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -33,6 +34,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
+![BOOLEAN EXP CODE](https://github.com/user-attachments/assets/c7b80451-043c-4c4e-a2c3-9894655c26e9)
+
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by: RegisterNumber:*/
@@ -40,13 +43,10 @@ Developed by: RegisterNumber:*/
 
 **RTL realization**
 
+![BOOLEAN EXP GATE](https://github.com/user-attachments/assets/8b5f953f-0731-4809-91a0-526a0ef696df)
+
 **Output:**
-
-**RTL**
-
-**Timing Diagram**
-
-**Result:**
+![BOOLEAN EXP WAVEFORM](https://github.com/user-attachments/assets/fb49f0c5-e77e-42a7-a21f-0f193825c29f)
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
