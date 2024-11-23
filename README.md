@@ -1,4 +1,6 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+## EXP2:BOOLEAN FUNCTION MINIMIZATION
+# NAME:JASSIR SULTHAN K
+# REGISTRAION NO:24901084                                                            
 
 **AIM:**
 
@@ -17,6 +19,8 @@ Hardware – PCs, Cyclone II , USB flasher
 **Theory**
 
 **Logic Diagram**
+![BOOLEAN EXP GATE](https://github.com/user-attachments/assets/d06dade8-3fed-4f7a-9811-379c3b09c32a)
+
 
 **Procedure**
 
@@ -32,15 +36,19 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+![BOOLEAN EXP CODE](https://github.com/user-attachments/assets/4442c572-caa7-4537-83fb-993c86cd766c)
+
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: RegisterNumber:24901084
 
 
 **RTL realization**
 
 **Output:**
+![BOOLEAN EXP WAVEFORM](https://github.com/user-attachments/assets/7d7ed376-6d00-4b76-aa20-89a24d2b757b)
+
 
 **RTL**
 
